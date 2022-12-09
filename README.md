@@ -1,2 +1,2 @@
 # roblox-funcaptcha-bypass
-Use capsolver.com service with FuncaptchaTask
+Use https://www.capsolver.com/ service with FuncaptchaTask
